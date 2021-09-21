@@ -6,6 +6,7 @@ Core Concept used in Project
 Flowchart of Application
 Demonstrating the project capabilities, appearance and user interaction.
 The code of this project is hosted at :-
+https://github.com/codeTwinkle/learneracademy.git
 
 
 This project is made by Twinkle Chugh
@@ -22,7 +23,7 @@ see list of Teacher and students.
 
 Sprint-3: Alter data in database configure all list of teacher and students. Create documentation.
 
-This project is made by Abheethi Koonal K T
+
 
 Sprint Planning and Task Compilation:-
 
